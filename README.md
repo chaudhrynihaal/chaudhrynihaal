@@ -1,8 +1,8 @@
 <div align="center">
-  <a href="https://www.linkedin.com/in/nihaal-asif" target="_blank">
+  <a href="https://www.linkedin.com/in/nihaalasif/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="LinkedIn logo" />
   </a>
-  <a href="mailto:nihaalasif5@gmail.com" target="_blank">
+  <a href="https://mail.google.com/mail/u/0/#inbox?compose=lqrsmDpvTwMHtTbgKcSKSkRGWNwjjHsqfjwpnSMPzgDTfDFCCCrVZpKmHRLZXLXcgcLmLhDDhxVdrpDXz" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=#800000&style=for-the-badge" height="25" alt="Gmail logo" />
   </a>
   <a href="https://www.instagram.com/chaudhry_nihaal/" target="_blank">
